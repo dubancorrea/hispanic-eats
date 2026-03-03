@@ -7,7 +7,7 @@ const App = () => {
     <div className="App">
       <header>
         <h1>Hispanic Eats 🌮</h1>
-        {/* 2. Add the subtitle requirement from the project overview */}
+        The best place to look for Hispanic Food
         <h2>Authentic flavors from the heart of our community</h2>
       </header>
       
